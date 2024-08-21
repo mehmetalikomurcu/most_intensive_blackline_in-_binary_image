@@ -45,4 +45,4 @@ Time Complexity Analysis
 Notes
 
     Ensure that the example.jpg image used is suitable for binary conversion and has distinguishable black and white areas.
-    The code has been tested with a standard binary image, but performance may vary based on the image resolution and content.
+    The code has been tested with an example image, but performance may vary based on the image resolution and content.
